@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">快速心算</string>
+    <string name="welcome_message">口算测试</string>
+    <string name="welcome_img_msg" translatable="false">welcome img</string>
+    <string name="welcome_btn">进入挑战</string>
+    <string name="high_score_msg">最高记录:%d</string>
+    <string name="btn_1" translatable="false">1</string>
+    <string name="btn_2" translatable="false">2</string>
+    <string name="btn_3" translatable="false">3</string>
+    <string name="btn_4" translatable="false">4</string>
+    <string name="btn_5" translatable="false">5</string>
+    <string name="btn_6" translatable="false">6</string>
+    <string name="btn_cancel" translatable="false">C</string>
+    <string name="btn_0" translatable="false">0</string>
+    <string name="btn_submit" translatable="false">OK</string>
+    <string name="equal_symbol" translatable="false">=</string>
+    <string name="question_mark" translatable="false">\?</string>
+    <string name="current_score">成绩:%d</string>
+    <string name="input_indicator">你的答案:</string>
+    <string name="lose_img" translatable="false">lose img</string>
+    <string name="lose_message">挑战失败，继续努力！</string>
+    <string name="lose_score_message">你的成绩:%d</string>
+    <string name="btn_back_to_welcome">返回</string>
+    <string name="win_img_msg" translatable="false">win img</string>
+    <string name="win_message">挑战成功</string>
+    <string name="win_score_message">新的记录:%d</string>
+    <string name="btn_7" translatable="false">7</string>
+    <string name="btn_8" translatable="false">8</string>
+    <string name="btn_9" translatable="false">9</string>
+    <string name="answer_correct_message">恭喜答对了!请继续</string>
+    <string name="welcome_nav_title_label">主页</string>
+    <string name="question_nav_label">心算作答</string>
+    <string name="win_nav_label">挑战成功</string>
+    <string name="lose_nav_label">挑战失败</string>
+    <string name="time" translatable="false">剩余时间:%d</string>
+    <string name="nandu" translatable="false">难度</string>
+</resources>
